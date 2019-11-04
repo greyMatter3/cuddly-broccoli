@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 void rotate_arr(int n, int arr[n]){
   int temp;
   temp=arr[0];
