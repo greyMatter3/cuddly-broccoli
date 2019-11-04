@@ -61,7 +61,7 @@ void pushback_zeroes(int n, int arr[n]){
 }
 
 int main(){
-  int n=7;
+  int n=10;
   int arr[n];
   int sum_arr[n];
   for(int i=0; i<n; i++){
