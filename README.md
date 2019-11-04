@@ -72,7 +72,7 @@ int main(){
   }
   //ascending_arr(n, arr);
   //even_odd_rearrange(n, arr);
-  pushback_zeroes(n, arr);
+ // pushback_zeroes(n, arr);
   for(int i=0; i<n; i++){
     printf("%d ", arr[i]);
   }
